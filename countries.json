@@ -1,18 +1,18 @@
 [
   {
     "name": "Afghanistan",
-    "alpha2code": "AF",
-    "alpha3code": "AFG",
-    "numericcode": "004",
+    "alpha-2code": "AF",
+    "alpha-3code": "AFG",
+    "numeric-code": "004",
 	"currency":[
 		{"name": "Afghani","code": "AFD"}
 	]
   },
   {
     "name": "Åland Islands",
-    "alpha2code": "AX",
-    "alpha3code": "ALA",
-    "numericcode": "248",
+    "alpha-2code": "AX",
+    "alpha-3code": "ALA",
+    "numeric-code": "248",
 	"currency":[
 		{"name": "Euro","code": "EUR"}
 	]
@@ -20,54 +20,54 @@
   },
   {
     "name": "Albania",
-    "alpha2code": "AL",
-    "alpha3code": "ALB",
-    "numericcode": "008",
+    "alpha-2code": "AL",
+    "alpha-3code": "ALB",
+    "numeric-code": "008",
 	"currency":[
 		{"name": "Lek","code": "ALL"}
 	]
   },
   {
     "name": "Algeria",
-    "alpha2code": "DZ",
-    "alpha3code": "ALB",
-    "numericcode": "012",
+    "alpha-2code": "DZ",
+    "alpha-3code": "ALB",
+    "numeric-code": "012",
 	"currency":[
 		{"name": "Algerian Dinar","code": "DZD"}
 	]
   },
   {
     "name": "American Samoa",
-    "alpha2code": "AS",
-    "alpha3code": "ASM",
-    "numericcode": "016",
+    "alpha-2code": "AS",
+    "alpha-3code": "ASM",
+    "numeric-code": "016",
 	"currency":[
 		{"name": "US Dollar","code": "USD"}
 	]
   },
   {
     "name": "Andorra",
-    "alpha2code": "AD",
-    "alpha3code": "AND",
-    "numericcode": "020",
+    "alpha-2code": "AD",
+    "alpha-3code": "AND",
+    "numeric-code": "020",
 	"currency":[
 		{"name": "Euro","code": "EUR"}
 	]
   },
   {
     "name": "Angola",
-    "alpha2code": "AO",
-    "alpha3code": "AGO",
-    "numericcode": "024",
+    "alpha-2code": "AO",
+    "alpha-3code": "AGO",
+    "numeric-code": "024",
 	"currency":[
 		{"name": "Kwanza","code": "AOA"}
 	]
   },
   {
     "name": "Anguilla",
-    "alpha2code": "AI",
-    "alpha3code": "AIA",
-    "numericcode": "660",
+    "alpha-2code": "AI",
+    "alpha-3code": "AIA",
+    "numeric-code": "660",
 	"isNA": true,
 	"currency":[
 		{"name": "East Caribbean Dollar","code": "XCD"}
@@ -75,15 +75,15 @@
   },
   {
     "name": "Antarctica",
-    "alpha2code": "AQ",
-    "alpha3code": "ATA",
-    "numericcode": "010"
+    "alpha-2code": "AQ",
+    "alpha-3code": "ATA",
+    "numeric-code": "010"
   },
   {
     "name": "Antigua and Barbuda",
-    "alpha2code": "AG",
-    "alpha3code": "ATG",
-    "numericcode": "028",
+    "alpha-2code": "AG",
+    "alpha-3code": "ATG",
+    "numeric-code": "028",
 	"isNA": true,
 	"currency":[
 		{"name": "East Caribbean Dollar","code": "XCD"}
@@ -91,27 +91,27 @@
   },
   {
     "name": "Argentina",
-    "alpha2code": "AR",
-    "alpha3code": "ARG",
-    "numericcode": "032",
+    "alpha-2code": "AR",
+    "alpha-3code": "ARG",
+    "numeric-code": "032",
 	"currency":[
 		{"name": "Argentine Peso","code": "XCD"}
 	]
   },
   {
     "name": "Armenia",
-    "alpha2code": "AM",
-    "alpha3code": "ARM",
-    "numericcode": "051",
+    "alpha-2code": "AM",
+    "alpha-3code": "ARM",
+    "numeric-code": "051",
 	"currency":[
 		{"name": "Armenian Dram","code": "AMD"}
 	]
   },
   {
     "name": "Aruba",
-    "alpha2code": "AW",
-    "alpha3code": "ABW",
-    "numericcode": "533",
+    "alpha-2code": "AW",
+    "alpha-3code": "ABW",
+    "numeric-code": "533",
 	"isNA": true,
 	"currency":[
 		{"name": "Aruban Florin","code": "AWG"}
@@ -119,18 +119,18 @@
   },
   {
     "name": "Australia",
-    "alpha2code": "AU",
-    "alpha3code": "AUS",
-    "numericcode": "036",
+    "alpha-2code": "AU",
+    "alpha-3code": "AUS",
+    "numeric-code": "036",
 	"currency":[
 		{"name": "Australian Dollar","code": "AUD"}
 	]
   },
   {
     "name": "Austria",
-    "alpha2code": "AT",
-    "alpha3code": "AUT",
-    "numericcode": "040",
+    "alpha-2code": "AT",
+    "alpha-3code": "AUT",
+    "numeric-code": "040",
     "isEU": true,
 	"currency":[
 		{"name": "Euro","code": "EUR"}
@@ -138,18 +138,18 @@
   },
   {
     "name": "Azerbaijan",
-    "alpha2code": "AZ",
-    "alpha3code": "AZE",
-    "numericcode": "031",
+    "alpha-2code": "AZ",
+    "alpha-3code": "AZE",
+    "numeric-code": "031",
 	"currency":[
 		{"name": "Azerbaijanian Manat","code": "AZN"}
 	]
   },
   {
     "name": "Bahamas",
-    "alpha2code": "BS",
-    "alpha3code": "BHS",
-    "numericcode": "044",
+    "alpha-2code": "BS",
+    "alpha-3code": "BHS",
+    "numeric-code": "044",
 	"isNA": true,
 	"currency":[
 		{"name": "Bahamian Dollar","code": "BSD"}
@@ -157,27 +157,27 @@
   },
   {
     "name": "Bahrain",
-    "alpha2code": "BH",
-    "alpha3code": "BHR",
-    "numericcode": "048",
+    "alpha-2code": "BH",
+    "alpha-3code": "BHR",
+    "numeric-code": "048",
 	"currency":[
 		{"name": "Bahraini Dinar","code": "BHD"}
 	]
   },
   {
     "name": "Bangladesh",
-    "alpha2code": "BD",
-    "alpha3code": "BGD",
-    "numericcode": "050",
+    "alpha-2code": "BD",
+    "alpha-3code": "BGD",
+    "numeric-code": "050",
 	"currency":[
 		{"name": "Taka","code": "BDT"}
 	]
   },
   {
     "name": "Barbados",
-    "alpha2code": "BB",
-    "alpha3code": "BRB",
-    "numericcode": "052",
+    "alpha-2code": "BB",
+    "alpha-3code": "BRB",
+    "numeric-code": "052",
 	"isNA": true,
 	"currency":[
 		{"name": "Barbados Dollar","code": "BBD"}
@@ -185,18 +185,18 @@
   },
   {
     "name": "Belarus",
-    "alpha2code": "BY",
-    "alpha3code": "BLR",
-    "numericcode": "112",
+    "alpha-2code": "BY",
+    "alpha-3code": "BLR",
+    "numeric-code": "112",
 	"currency":[
 		{"name": "Belarussian Ruble","code": "BYR"}
 	]
   },
   {
     "name": "Belgium",
-    "alpha2code": "BE",
-    "alpha3code": "BEL",
-    "numericcode": "056",
+    "alpha-2code": "BE",
+    "alpha-3code": "BEL",
+    "numeric-code": "056",
     "isEU": true,
 	"currency":[
 		{"name": "Euro","code": "EUR"}
@@ -204,9 +204,9 @@
   },
   {
     "name": "Belize",
-    "alpha2code": "BZ",
-    "alpha3code": "BLZ",
-    "numericcode": "084",
+    "alpha-2code": "BZ",
+    "alpha-3code": "BLZ",
+    "numeric-code": "084",
 	"isNA": true,
 	"currency":[
 		{"name": "Belize Dollar","code": "BZD"}
@@ -214,18 +214,18 @@
   },
   {
     "name": "Benin",
-    "alpha2code": "BJ",
-    "alpha3code": "BEN",
-    "numericcode": "204",
+    "alpha-2code": "BJ",
+    "alpha-3code": "BEN",
+    "numeric-code": "204",
 	"currency":[
 		{"name": "CFA Franc BCEAO","code": "XOF"}
 	]
   },
   {
     "name": "Bermuda",
-    "alpha2code": "BM",
-    "alpha3code": "BMU",
-    "numericcode": "060",
+    "alpha-2code": "BM",
+    "alpha-3code": "BMU",
+    "numeric-code": "060",
 	"isNA": true,
 	"currency":[
 		{"name": "Bermudian Dollar","code": "BMD"}
@@ -233,18 +233,18 @@
   },
   {
     "name": "Bhutan",
-    "alpha2code": "BT",
-    "alpha3code": "BTN",
-    "numericcode": "064",
+    "alpha-2code": "BT",
+    "alpha-3code": "BTN",
+    "numeric-code": "064",
 	"currency":[
 		{"name": "Ngultrum","code": "BTN"}
 	]
   },
   {
     "name": "Bolivia (Plurinational State of)",
-    "alpha2code": "BO",
-    "alpha3code": "BOL",
-    "numericcode": "068",
+    "alpha-2code": "BO",
+    "alpha-3code": "BOL",
+    "numeric-code": "068",
 	"currency":[
 		{"name": "Boliviano","code": "BOB"},
 		{"name": "Mvdol","code": "BOV"}
@@ -252,9 +252,9 @@
   },
   {
     "name": "Bonaire, Sint Eustatius and Saba",
-    "alpha2code": "BQ",
-    "alpha3code": "BES",
-    "numericcode": "535",
+    "alpha-2code": "BQ",
+    "alpha-3code": "BES",
+    "numeric-code": "535",
 	"isNA": true,
 	"currency":[
 		{"name": "US Dollar","code": "USD"}
@@ -262,63 +262,63 @@
   },
   {
     "name": "Bosnia and Herzegovina",
-    "alpha2code": "BA",
-    "alpha3code": "BIH",
-    "numericcode": "070",
+    "alpha-2code": "BA",
+    "alpha-3code": "BIH",
+    "numeric-code": "070",
 	"currency":[
 		{"name": "Convertible Mark","code": "BAM"}
 	]
   },
   {
     "name": "Botswana",
-    "alpha2code": "BW",
-    "alpha3code": "BWA",
-    "numericcode": "072",
+    "alpha-2code": "BW",
+    "alpha-3code": "BWA",
+    "numeric-code": "072",
 	"currency":[
 		{"name": "Pula","code": "BWP"}
 	]
   },
   {
     "name": "Bouvet Island",
-    "alpha2code": "BV",
-    "alpha3code": "BVT",
-    "numericcode": "074",
+    "alpha-2code": "BV",
+    "alpha-3code": "BVT",
+    "numeric-code": "074",
 	"currency":[
 		{"name": "Norwegian Krone","code": "NOK"}
 	]
   },
   {
     "name": "Brazil",
-    "alpha2code": "BR",
-    "alpha3code": "BRA",
-    "numericcode": "076",
+    "alpha-2code": "BR",
+    "alpha-3code": "BRA",
+    "numeric-code": "076",
 	"currency":[
 		{"name": "Brazilian Real","code": "BRL"}
 	]
   },
   {
     "name": "British Indian Ocean Territory",
-    "alpha2code": "IO",
-    "alpha3code": "IOT",
-    "numericcode": "086",
+    "alpha-2code": "IO",
+    "alpha-3code": "IOT",
+    "numeric-code": "086",
 	"currency":[
 		{"name": "US Dollar","code": "USD"}
 	]
   },
   {
     "name": "Brunei Darussalam",
-    "alpha2code": "BN",
-    "alpha3code": "BRN",
-    "numericcode": "096",
+    "alpha-2code": "BN",
+    "alpha-3code": "BRN",
+    "numeric-code": "096",
 	"currency":[
 		{"name": "Brunei Dollar","code": "BND"}
 	]
   },
   {
     "name": "Bulgaria",
-    "alpha2code": "BG",
-    "alpha3code": "BGR",
-    "numericcode": "100",
+    "alpha-2code": "BG",
+    "alpha-3code": "BGR",
+    "numeric-code": "100",
 	"isEU": true,
 	"currency":[
 		{"name": "Bulgarian Lev","code": "BGN"}
@@ -326,45 +326,45 @@
   },
   {
     "name": "Burkina Faso",
-    "alpha2code": "BF",
-    "alpha3code": "BFA",
-    "numericcode": "854",
+    "alpha-2code": "BF",
+    "alpha-3code": "BFA",
+    "numeric-code": "854",
 	"currency":[
 		{"name": "CFA Franc BCEAO","code": "XOF"}
 	]
   },
   {
     "name": "Burundi",
-    "alpha2code": "BI",
-    "alpha3code": "BDI",
-    "numericcode": "108",
+    "alpha-2code": "BI",
+    "alpha-3code": "BDI",
+    "numeric-code": "108",
 	"currency":[
 		{"name": "Burundi Franc","code": "BIF"}
 	]
   },
   {
     "name": "Cambodia",
-    "alpha2code": "KH",
-    "alpha3code": "KHM",
-    "numericcode": "116",
+    "alpha-2code": "KH",
+    "alpha-3code": "KHM",
+    "numeric-code": "116",
 	"currency":[
 		{"name": "Riel","code": "KHR"}
 	]
   },
   {
     "name": "Cameroon",
-    "alpha2code": "CM",
-    "alpha3code": "CMR",
-    "numericcode": "120",
+    "alpha-2code": "CM",
+    "alpha-3code": "CMR",
+    "numeric-code": "120",
 	"currency":[
 		{"name": "CFA Franc BEAC","code": "XAF"}
 	]
   },
   {
     "name": "Canada",
-    "alpha2code": "CA",
-    "alpha3code": "CAN",
-    "numericcode": "124",
+    "alpha-2code": "CA",
+    "alpha-3code": "CAN",
+    "numeric-code": "124",
 	"isNA": true,
 	"currency":[
 		{"name": "Canadian Dollar","code": "CAD"}
@@ -372,18 +372,18 @@
   },
   {
     "name": "Cabo Verde",
-    "alpha2code": "CV",
-    "alpha3code": "CPV",
-    "numericcode": "132",
+    "alpha-2code": "CV",
+    "alpha-3code": "CPV",
+    "numeric-code": "132",
 	"currency":[
 		{"name": "Cabo Verde Escudo","code": "CVE"}
 	]
   },
   {
     "name": "Cayman Islands",
-    "alpha2code": "KY",
-    "alpha3code": "CYM",
-    "numericcode": "136",
+    "alpha-2code": "KY",
+    "alpha-3code": "CYM",
+    "numeric-code": "136",
 	"isNA": true,
 	"currency":[
 		{"name": "Cayman Islands Dollar","code": "KYD"}
@@ -391,27 +391,27 @@
   },
   {
     "name": "Central African Republic",
-    "alpha2code": "CF",
-    "alpha3code": "CAF",
-    "numericcode": "140",
+    "alpha-2code": "CF",
+    "alpha-3code": "CAF",
+    "numeric-code": "140",
 	"currency":[
 		{"name": "CFA Franc BEAC","code": "XAF"}
 	]
   },
   {
     "name": "Chad",
-    "alpha2code": "TD",
-    "alpha3code": "TCD",
-    "numericcode": "148",
+    "alpha-2code": "TD",
+    "alpha-3code": "TCD",
+    "numeric-code": "148",
 	"currency":[
 		{"name": "CFA Franc BEAC","code": "XAF"}
 	]
   },
   {
     "name": "Chile",
-    "alpha2code": "CL",
-    "alpha3code": "CHL",
-    "numericcode": "152",
+    "alpha-2code": "CL",
+    "alpha-3code": "CHL",
+    "numeric-code": "152",
 	"currency":[
 		{"name": "Unidad de Fomento","code": "CLF"},
 		{"name": "Chilean Peso","code": "CLP"}
@@ -419,36 +419,36 @@
   },
   {
     "name": "China",
-    "alpha2code": "CN",
-    "alpha3code": "CHN",
-    "numericcode": "156",
+    "alpha-2code": "CN",
+    "alpha-3code": "CHN",
+    "numeric-code": "156",
 	"currency":[
 		{"name": "Yuan Renminbi","code": "CNY"}
 	]
   },
   {
     "name": "Christmas Island",
-    "alpha2code": "CX",
-    "alpha3code": "CXR",
-    "numericcode": "162",
+    "alpha-2code": "CX",
+    "alpha-3code": "CXR",
+    "numeric-code": "162",
 	"currency":[
 		{"name": "Australian Dollar","code": "AUD"}
 	]
   },
   {
     "name": "Cocos (Keeling) Islands",
-    "alpha2code": "CC",
-    "alpha3code": "CCK",
-    "numericcode": "166",
+    "alpha-2code": "CC",
+    "alpha-3code": "CCK",
+    "numeric-code": "166",
 	"currency":[
 		{"name": "Australian Dollar","code": "AUD"}
 	]
   },
   {
     "name": "Colombia",
-    "alpha2code": "CO",
-    "alpha3code": "COL",
-    "numericcode": "170",
+    "alpha-2code": "CO",
+    "alpha-3code": "COL",
+    "numeric-code": "170",
 	"currency":[
 		{"name": "Colombian Peso","code": "COP"},
 		{"name": "Unidad de Valor Real","code": "COU"}
@@ -456,45 +456,45 @@
   },
   {
     "name": "Comoros",
-    "alpha2code": "KM",
-    "alpha3code": "COK",
-    "numericcode": "174",
+    "alpha-2code": "KM",
+    "alpha-3code": "COK",
+    "numeric-code": "174",
 	"currency":[
 		{"name": "Comoro Franc","code": "KMF"}
 	]
   },
   {
     "name": "Congo",
-    "alpha2code": "CG",
-    "alpha3code": "COG",
-    "numericcode": "178",
+    "alpha-2code": "CG",
+    "alpha-3code": "COG",
+    "numeric-code": "178",
 	"currency":[
 		{"name": "CFA Franc BEAC","code": "XAF"}
 	]
   },
   {
     "name": "Congo (Democratic Republic of the)",
-    "alpha2code": "CD",
-    "alpha3code": "COD",
-    "numericcode": "180",
+    "alpha-2code": "CD",
+    "alpha-3code": "COD",
+    "numeric-code": "180",
 	"currency":[
 		{"name": "Congolese Franc","code": "CDF"}
 	]
   },
   {
     "name": "Cook Islands",
-    "alpha2code": "CK",
-    "alpha3code": "COK",
-    "numericcode": "184",
+    "alpha-2code": "CK",
+    "alpha-3code": "COK",
+    "numeric-code": "184",
 	"currency":[
 		{"name": "New Zealand Dollar","code": "NZD"}
 	]
   },
   {
     "name": "Costa Rica",
-    "alpha2code": "CR",
-    "alpha3code": "CRI",
-    "numericcode": "188",
+    "alpha-2code": "CR",
+    "alpha-3code": "CRI",
+    "numeric-code": "188",
 	"isNA": true,
 	"currency":[
 		{"name": "Costa Rican Colon","code": "CRC"}
@@ -502,9 +502,9 @@
   },
   {
     "name": "Côte d'Ivoire",
-    "alpha2code": "CI",
-    "alpha3code": "CIV",
-    "numericcode": "384",
+    "alpha-2code": "CI",
+    "alpha-3code": "CIV",
+    "numeric-code": "384",
 	"currency":[
 		{"name": "CFA Franc BCEAO","code": "XOF"}
 	]
@@ -512,9 +512,9 @@
   {
     "name": "Croatia",
     "local-name": "Hrvatska",
-    "alpha2code": "HR",
-    "alpha3code": "HRV",
-    "numericcode": "191",
+    "alpha-2code": "HR",
+    "alpha-3code": "HRV",
+    "numeric-code": "191",
 	"isEU": true,
 	"currency":[
 		{"name": "Croatian Kuna","code": "HRK"}
@@ -522,9 +522,9 @@
   },
   {
     "name": "Cuba",
-    "alpha2code": "CU",
-    "alpha3code": "CUB",
-    "numericcode": "192",
+    "alpha-2code": "CU",
+    "alpha-3code": "CUB",
+    "numeric-code": "192",
 	"isNA": true,
 	"currency":[
 		{"name": "Cuban Peso","code": "CUP"}
@@ -532,9 +532,9 @@
   },
   {
     "name": "Curaçao",
-    "alpha2code": "CW",
-    "alpha3code": "CUW",
-    "numericcode": "531",
+    "alpha-2code": "CW",
+    "alpha-3code": "CUW",
+    "numeric-code": "531",
 	"isNA": true,
 	"currency":[
 		{"name": "Netherlands Antillean Guilder","code": "ANG"}
@@ -542,9 +542,9 @@
   },
   {
     "name": "Cyprus",
-    "alpha2code": "CY",
-    "alpha3code": "CYP",
-    "numericcode": "196",
+    "alpha-2code": "CY",
+    "alpha-3code": "CYP",
+    "numeric-code": "196",
 	"isEU": true,
 	"currency":[
 		{"name": "Euro","code": "EUR"}
@@ -552,9 +552,9 @@
   },
   {
     "name": "Czech Republic",
-    "alpha2code": "CZ",
-    "alpha3code": "CZE",
-    "numericcode": "203",
+    "alpha-2code": "CZ",
+    "alpha-3code": "CZE",
+    "numeric-code": "203",
 	"isEU": true,
 	"currency":[
 		{"name": "Czech Koruna","code": "CZK"}
@@ -562,9 +562,9 @@
   },
   {
     "name": "Denmark",
-    "alpha2code": "DK",
-    "alpha3code": "DNK",
-    "numericcode": "208",
+    "alpha-2code": "DK",
+    "alpha-3code": "DNK",
+    "numeric-code": "208",
 	"isEU": true,
 	"currency":[
 		{"name": "Danish Krone","code": "DKK"}
@@ -572,18 +572,18 @@
   },
   {
     "name": "Djibouti",
-    "alpha2code": "DJ",
-    "alpha3code": "DJI",
-    "numericcode": "262",
+    "alpha-2code": "DJ",
+    "alpha-3code": "DJI",
+    "numeric-code": "262",
 	"currency":[
 		{"name": "Djibouti Franc","code": "DJF"}
 	]
   },
   {
     "name": "Dominica",
-    "alpha2code": "DM",
-    "alpha3code": "DMA",
-    "numericcode": "212",
+    "alpha-2code": "DM",
+    "alpha-3code": "DMA",
+    "numeric-code": "212",
 	"isNA": true,
 	"currency":[
 		{"name": "East Caribbean Dollar","code": "XCD"}
@@ -591,9 +591,9 @@
   },
   {
     "name": "Dominican Republic",
-    "alpha2code": "DO",
-    "alpha3code": "DOM",
-    "numericcode": "214",
+    "alpha-2code": "DO",
+    "alpha-3code": "DOM",
+    "numeric-code": "214",
 	"isNA": true,
 	"currency":[
 		{"name": "Dominican Peso","code": "DOP"}
@@ -601,27 +601,27 @@
   },
   {
     "name": "Ecuador",
-    "alpha2code": "EC",
-    "alpha3code": "ECU",
-    "numericcode": "218",
+    "alpha-2code": "EC",
+    "alpha-3code": "ECU",
+    "numeric-code": "218",
 	"currency":[
 		{"name": "US Dollar","code": "USD"}
 	]
   },
   {
     "name": "Egypt",
-    "alpha2code": "EG",
-    "alpha3code": "EGY",
-    "numericcode": "818",
+    "alpha-2code": "EG",
+    "alpha-3code": "EGY",
+    "numeric-code": "818",
 	"currency":[
 		{"name": "Egyptian Pound","code": "EGP"}
 	]
   },
   {
     "name": "El Salvador",
-    "alpha2code": "SV",
-    "alpha3code": "SLV",
-    "numericcode": "222",
+    "alpha-2code": "SV",
+    "alpha-3code": "SLV",
+    "numeric-code": "222",
 	"isNA": true,
 	"currency":[
 		{"name": "El Salvador Colon","code": "SVC"},
@@ -630,27 +630,27 @@
   },
   {
     "name": "Equatorial Guinea",
-    "alpha2code": "GQ",
-    "alpha3code": "GNQ",
-    "numericcode": "226",
+    "alpha-2code": "GQ",
+    "alpha-3code": "GNQ",
+    "numeric-code": "226",
 	"currency":[
 		{"name": "CFA Franc BEAC","code": "XAF"}
 	]
   },
   {
     "name": "Eritrea",
-    "alpha2code": "ER",
-    "alpha3code": "ERI",
-    "numericcode": "232",
+    "alpha-2code": "ER",
+    "alpha-3code": "ERI",
+    "numeric-code": "232",
 	"currency":[
 		{"name": "Nakfa","code": "ERN"}
 	]
   },
   {
     "name": "Estonia",
-    "alpha2code": "EE",
-    "alpha3code": "EST",
-    "numericcode": "233",
+    "alpha-2code": "EE",
+    "alpha-3code": "EST",
+    "numeric-code": "233",
 	"isEU": true,
 	"currency":[
 		{"name": "Euro","code": "EUR"}
@@ -658,45 +658,45 @@
   },
   {
     "name": "Ethiopia",
-    "alpha2code": "ET",
-    "alpha3code": "ETH",
-    "numericcode": "231",
+    "alpha-2code": "ET",
+    "alpha-3code": "ETH",
+    "numeric-code": "231",
 	"currency":[
 		{"name": "Ethiopian Birr","code": "ETB"}
 	]
   },
   {
     "name": "Falkland Islands (Malvinas)",
-    "alpha2code": "FK",
-    "alpha3code": "FLK",
-    "numericcode": "238",
+    "alpha-2code": "FK",
+    "alpha-3code": "FLK",
+    "numeric-code": "238",
 	"currency":[
 		{"name": "Falkland Islands Pound","code": "FKP"}
 	]
   },
   {
     "name": "Faroe Islands",
-    "alpha2code": "FO",
-    "alpha3code": "FRO",
-    "numericcode": "234",
+    "alpha-2code": "FO",
+    "alpha-3code": "FRO",
+    "numeric-code": "234",
 	"currency":[
 		{"name": "Danish Krone","code": "DKK"}
 	]
   },
   {
     "name": "Fiji",
-    "alpha2code": "FJ",
-    "alpha3code": "FJI",
-    "numericcode": "242",
+    "alpha-2code": "FJ",
+    "alpha-3code": "FJI",
+    "numeric-code": "242",
 	"currency":[
 		{"name": "Fiji Dollar","code": "FJD"}
 	]
   },
   {
     "name": "Finland",
-    "alpha2code": "FI",
-    "alpha3code": "FIN",
-    "numericcode": "246",
+    "alpha-2code": "FI",
+    "alpha-3code": "FIN",
+    "numeric-code": "246",
 	"isEU": true,
 	"currency":[
 		{"name": "Euro","code": "EUR"}
@@ -704,9 +704,9 @@
   },
   {
     "name": "France",
-    "alpha2code": "FR",
-    "alpha3code": "FRA",
-    "numericcode": "250",
+    "alpha-2code": "FR",
+    "alpha-3code": "FRA",
+    "numeric-code": "250",
 	"isEU": true,
 	"currency":[
 		{"name": "Euro","code": "EUR"}
@@ -714,63 +714,63 @@
   },
   {
     "name": "French Guiana",
-    "alpha2code": "GF",
-    "alpha3code": "GUF",
-    "numericcode": "254",
+    "alpha-2code": "GF",
+    "alpha-3code": "GUF",
+    "numeric-code": "254",
 	"currency":[
 		{"name": "Euro","code": "EUR"}
 	]
   },
   {
     "name": "French Polynesia",
-    "alpha2code": "PF",
-    "alpha3code": "PYF",
-    "numericcode": "258",
+    "alpha-2code": "PF",
+    "alpha-3code": "PYF",
+    "numeric-code": "258",
 	"currency":[
 		{"name": "CFP Franc","code": "XPF"}
 	]
   },
   {
     "name": "French Southern Territories",
-    "alpha2code": "TF",
-    "alpha3code": "ATF",
-    "numericcode": "260",
+    "alpha-2code": "TF",
+    "alpha-3code": "ATF",
+    "numeric-code": "260",
 	"currency":[
 		{"name": "Euro","code": "EUR"}
 	]
   },
   {
     "name": "Gabon",
-    "alpha2code": "GA",
-    "alpha3code": "GAB",
-    "numericcode": "266",
+    "alpha-2code": "GA",
+    "alpha-3code": "GAB",
+    "numeric-code": "266",
 	"currency":[
 		{"name": "CFA Franc BEAC","code": "XAF"}
 	]
   },
   {
     "name": "Gambia",
-    "alpha2code": "GM",
-    "alpha3code": "GMB",
-    "numericcode": "270",
+    "alpha-2code": "GM",
+    "alpha-3code": "GMB",
+    "numeric-code": "270",
 	"currency":[
 		{"name": "Dalasi","code": "GMD"}
 	]
   },
   {
     "name": "Georgia",
-    "alpha2code": "GE",
-    "alpha3code": "GEO",
-    "numericcode": "268",
+    "alpha-2code": "GE",
+    "alpha-3code": "GEO",
+    "numeric-code": "268",
 	"currency":[
 		{"name": "Lari","code": "GEL"}
 	]
   },
   {
     "name": "Germany",
-    "alpha2code": "DE",
-    "alpha3code": "DEU",
-    "numericcode": "276",
+    "alpha-2code": "DE",
+    "alpha-3code": "DEU",
+    "numeric-code": "276",
 	"isEU": true,
 	"currency":[
 		{"name": "Euro","code": "EUR"}
@@ -778,27 +778,27 @@
   },
   {
     "name": "Ghana",
-    "alpha2code": "GH",
-    "alpha3code": "GHA",
-    "numericcode": "288",
+    "alpha-2code": "GH",
+    "alpha-3code": "GHA",
+    "numeric-code": "288",
 	"currency":[
 		{"name": "Ghana Cedi","code": "GHS"}
 	]
   },
   {
     "name": "Gibraltar",
-    "alpha2code": "GI",
-    "alpha3code": "GIB",
-    "numericcode": "292",
+    "alpha-2code": "GI",
+    "alpha-3code": "GIB",
+    "numeric-code": "292",
 	"currency":[
 		{"name": "Gibraltar Pound","code": "GIP"}
 	]
   },
   {
     "name": "Greece",
-    "alpha2code": "GR",
-    "alpha3code": "GRC",
-    "numericcode": "300",
+    "alpha-2code": "GR",
+    "alpha-3code": "GRC",
+    "numeric-code": "300",
 	"isEU": true,
 	"currency":[
 		{"name": "Euro","code": "EUR"}
@@ -806,9 +806,9 @@
   },
   {
     "name": "Greenland",
-    "alpha2code": "GL",
-    "alpha3code": "GRL",
-    "numericcode": "304",
+    "alpha-2code": "GL",
+    "alpha-3code": "GRL",
+    "numeric-code": "304",
 	"isNA": true,
 	"currency":[
 		{"name": "Danish Krone","code": "DKK"}
@@ -816,9 +816,9 @@
   },
   {
     "name": "Grenada",
-    "alpha2code": "GD",
-    "alpha3code": "GRD",
-    "numericcode": "308",
+    "alpha-2code": "GD",
+    "alpha-3code": "GRD",
+    "numeric-code": "308",
 	"isNA": true,
 	"currency":[
 		{"name": "East Caribbean Dollar","code": "XCD"}
@@ -826,9 +826,9 @@
   },
   {
     "name": "Guadeloupe",
-    "alpha2code": "GP",
-    "alpha3code": "GLP",
-    "numericcode": "312",
+    "alpha-2code": "GP",
+    "alpha-3code": "GLP",
+    "numeric-code": "312",
 	"isNA": true,
 	"currency":[
 		{"name": "Euro","code": "EUR"}
@@ -836,18 +836,18 @@
   },
   {
     "name": "Guam",
-    "alpha2code": "GU",
-    "alpha3code": "GUM",
-    "numericcode": "316",
+    "alpha-2code": "GU",
+    "alpha-3code": "GUM",
+    "numeric-code": "316",
 	"currency":[
 		{"name": "US Dollar","code": "USD"}
 	]
   },
   {
     "name": "Guatemala",
-    "alpha2code": "GT",
-    "alpha3code": "GTM",
-    "numericcode": "320",
+    "alpha-2code": "GT",
+    "alpha-3code": "GTM",
+    "numeric-code": "320",
 	"isNA": true,
 	"currency":[
 		{"name": "Quetzal","code": "GTQ"}
@@ -855,45 +855,45 @@
   },
   {
     "name": "Guernsey",
-    "alpha2code": "GG",
-    "alpha3code": "GGY",
-    "numericcode": "831",
+    "alpha-2code": "GG",
+    "alpha-3code": "GGY",
+    "numeric-code": "831",
 	"currency":[
 		{"name": "Pound Sterling","code": "GBP"}
 	]
   },
   {
     "name": "Guinea",
-    "alpha2code": "GN",
-    "alpha3code": "GIN",
-    "numericcode": "324",
+    "alpha-2code": "GN",
+    "alpha-3code": "GIN",
+    "numeric-code": "324",
 	"currency":[
 		{"name": "Guinea Franc","code": "GNF"}
 	]
   },
   {
     "name": "Guinea-Bissau",
-    "alpha2code": "GW",
-    "alpha3code": "GNB",
-    "numericcode": "624",
+    "alpha-2code": "GW",
+    "alpha-3code": "GNB",
+    "numeric-code": "624",
 	"currency":[
 		{"name": "CFA Franc BCEAO","code": "XOF"}
 	]
   },
   {
     "name": "Guyana",
-    "alpha2code": "GY",
-    "alpha3code": "GUY",
-    "numericcode": "328",
+    "alpha-2code": "GY",
+    "alpha-3code": "GUY",
+    "numeric-code": "328",
 	"currency":[
 		{"name": "Guyana Dollar","code": "GYD"}
 	]
   },
   {
     "name": "Haiti",
-    "alpha2code": "HT",
-    "alpha3code": "HTI",
-    "numericcode": "332",
+    "alpha-2code": "HT",
+    "alpha-3code": "HTI",
+    "numeric-code": "332",
 	"isNA": true,
 	"currency":[
 		{"name": "Gourde","code": "HTG"},
@@ -902,27 +902,27 @@
   },
   {
     "name": "Heard Island and McDonald Islands",
-    "alpha2code": "HM",
-    "alpha3code": "HMD",
-    "numericcode": "334",
+    "alpha-2code": "HM",
+    "alpha-3code": "HMD",
+    "numeric-code": "334",
 	"currency":[
 		{"name": "Australian Dollar","code": "AUD"}
 	]
   },
   {
     "name": "Holy See",
-    "alpha2code": "VA",
-    "alpha3code": "VAT",
-    "numericcode": "336",
+    "alpha-2code": "VA",
+    "alpha-3code": "VAT",
+    "numeric-code": "336",
 	"currency":[
 		{"name": "Euro","code": "EUR"}
 	]
   },
   {
     "name": "Honduras",
-    "alpha2code": "HN",
-    "alpha3code": "HND",
-    "numericcode": "340",
+    "alpha-2code": "HN",
+    "alpha-3code": "HND",
+    "numeric-code": "340",
 	"isNA": true,
 	"currency":[
 		{"name": "Lempira","code": "HNL"}
@@ -930,18 +930,18 @@
   },
   {
     "name": "Hong Kong",
-    "alpha2code": "HK",
-    "alpha3code": "HKG",
-    "numericcode": "344",
+    "alpha-2code": "HK",
+    "alpha-3code": "HKG",
+    "numeric-code": "344",
 	"currency":[
 		{"name": "Hong Kong Dollar","code": "HKD"}
 	]
   },
   {
     "name": "Hungary",
-    "alpha2code": "HU",
-    "alpha3code": "HUN",
-    "numericcode": "348",
+    "alpha-2code": "HU",
+    "alpha-3code": "HUN",
+    "numeric-code": "348",
 	"isEU": true,
 	"currency":[
 		{"name": "Forint","code": "HUF"}
@@ -949,54 +949,54 @@
   },
   {
     "name": "Iceland",
-    "alpha2code": "IS",
-    "alpha3code": "ISL",
-    "numericcode": "352",
+    "alpha-2code": "IS",
+    "alpha-3code": "ISL",
+    "numeric-code": "352",
 	"currency":[
 		{"name": "Iceland Krona","code": "ISK"}
 	]
   },
   {
     "name": "India",
-    "alpha2code": "IN",
-    "alpha3code": "IND",
-    "numericcode": "356",
+    "alpha-2code": "IN",
+    "alpha-3code": "IND",
+    "numeric-code": "356",
 	"currency":[
 		{"name": "Indian Rupee","code": "INR"}
 	]
   },
   {
     "name": "Indonesia",
-    "alpha2code": "ID",
-    "alpha3code": "IDN",
-    "numericcode": "360",
+    "alpha-2code": "ID",
+    "alpha-3code": "IDN",
+    "numeric-code": "360",
 	"currency":[
 		{"name": "Rupiah","code": "IDR"}
 	]
   },
   {
     "name": "Iran (Islamic Republic of)",
-    "alpha2code": "IR",
-    "alpha3code": "IRN",
-    "numericcode": "364",
+    "alpha-2code": "IR",
+    "alpha-3code": "IRN",
+    "numeric-code": "364",
 	"currency":[
 		{"name": "Iranian Rial","code": "IRR"}
 	]
   },
   {
     "name": "Iraq",
-    "alpha2code": "IQ",
-    "alpha3code": "IRQ",
-    "numericcode": "368",
+    "alpha-2code": "IQ",
+    "alpha-3code": "IRQ",
+    "numeric-code": "368",
 	"currency":[
 		{"name": "Iraqi Dinar","code": "IQD"}
 	]
   },
   {
     "name": "Ireland",
-    "alpha2code": "IE",
-    "alpha3code": "IRL",
-    "numericcode": "372",
+    "alpha-2code": "IE",
+    "alpha-3code": "IRL",
+    "numeric-code": "372",
 	"isEU": true,
 	"currency":[
 		{"name": "Euro","code": "EUR"}
@@ -1004,27 +1004,27 @@
   },
   {
     "name": "Isle of Man",
-    "alpha2code": "IM",
-    "alpha3code": "IMN",
-    "numericcode": "833",
+    "alpha-2code": "IM",
+    "alpha-3code": "IMN",
+    "numeric-code": "833",
 	"currency":[
 		{"name": "Pound Sterling","code": "GBP"}
 	]
   },
   {
     "name": "Israel",
-    "alpha2code": "IL",
-    "alpha3code": "ISR",
-    "numericcode": "376",
+    "alpha-2code": "IL",
+    "alpha-3code": "ISR",
+    "numeric-code": "376",
 	"currency":[
 		{"name": "New Israeli Sheqel","code": "ILS"}
 	]
   },
   {
     "name": "Italy",
-    "alpha2code": "IT",
-    "alpha3code": "ITA",
-    "numericcode": "380",
+    "alpha-2code": "IT",
+    "alpha-3code": "ITA",
+    "numeric-code": "380",
 	"isEU": true,
 	"currency":[
 		{"name": "Euro","code": "EUR"}
@@ -1032,9 +1032,9 @@
   },
   {
     "name": "Jamaica",
-    "alpha2code": "JM",
-    "alpha3code": "JAM",
-    "numericcode": "388",
+    "alpha-2code": "JM",
+    "alpha-3code": "JAM",
+    "numeric-code": "388",
 	"isNA": true,
 	"currency":[
 		{"name": "Jamaican Dollar","code": "JMD"}
@@ -1042,108 +1042,108 @@
   },
   {
     "name": "Japan",
-    "alpha2code": "JP",
-    "alpha3code": "JPN",
-    "numericcode": "392",
+    "alpha-2code": "JP",
+    "alpha-3code": "JPN",
+    "numeric-code": "392",
 	"currency":[
 		{"name": "Yen","code": "JPY"}
 	]
   },
   {
     "name": "Jersey",
-    "alpha2code": "JE",
-    "alpha3code": "JEY",
-    "numericcode": "832",
+    "alpha-2code": "JE",
+    "alpha-3code": "JEY",
+    "numeric-code": "832",
 	"currency":[
 		{"name": "Pound Sterling","code": "GBP"}
 	]
   },
   {
     "name": "Jordan",
-    "alpha2code": "JO",
-    "alpha3code": "JOR",
-    "numericcode": "400",
+    "alpha-2code": "JO",
+    "alpha-3code": "JOR",
+    "numeric-code": "400",
 	"currency":[
 		{"name": "Jordanian Dinar","code": "JOD"}
 	]
   },
   {
     "name": "Kazakhstan",
-    "alpha2code": "KZ",
-    "alpha3code": "KAZ",
-    "numericcode": "398",
+    "alpha-2code": "KZ",
+    "alpha-3code": "KAZ",
+    "numeric-code": "398",
 	"currency":[
 		{"name": "Tenge","code": "KZT"}
 	]
   },
   {
     "name": "Kenya",
-    "alpha2code": "KE",
-    "alpha3code": "KEN",
-    "numericcode": "404",
+    "alpha-2code": "KE",
+    "alpha-3code": "KEN",
+    "numeric-code": "404",
 	"currency":[
 		{"name": "Kenyan Shilling","code": "KES"}
 	]
   },
   {
     "name": "Kiribati",
-    "alpha2code": "KI",
-    "alpha3code": "KIR",
-    "numericcode": "296",
+    "alpha-2code": "KI",
+    "alpha-3code": "KIR",
+    "numeric-code": "296",
 	"currency":[
 		{"name": "Australian Dollar","code": "AUD"}
 	]
   },
   {
     "name": "Korea (Democratic People's Republic of)",
-    "alpha2code": "KP",
-    "alpha3code": "PRK",
-    "numericcode": "408",
+    "alpha-2code": "KP",
+    "alpha-3code": "PRK",
+    "numeric-code": "408",
 	"currency":[
 		{"name": "North Korean Won","code": "KPW"}
 	]
   },
   {
     "name": "Korea (Republic of)",
-    "alpha2code": "KR",
-    "alpha3code": "KOR",
-    "numericcode": "410",
+    "alpha-2code": "KR",
+    "alpha-3code": "KOR",
+    "numeric-code": "410",
 	"currency":[
 		{"name": "Won","code": "KRW"}
 	]
   },
   {
     "name": "Kuwait",
-    "alpha2code": "KW",
-    "alpha3code": "KWT",
-    "numericcode": "414",
+    "alpha-2code": "KW",
+    "alpha-3code": "KWT",
+    "numeric-code": "414",
 	"currency":[
 		{"name": "Kuwaiti Dinar","code": "KWD"}
 	]
   },
   {
     "name": "Kyrgyzstan",
-    "alpha2code": "KG",
-    "alpha3code": "KGZ",
-    "numericcode": "417",
+    "alpha-2code": "KG",
+    "alpha-3code": "KGZ",
+    "numeric-code": "417",
 	"currency":[
 		{"name": "Som","code": "KGS"}
 	]
   },
   {
     "name": "Lao People's Democratic Republic",
-    "alpha2code": "LA",
-    "alpha3code": "LAO",
-    "numericcode": "418",
+    "alpha-2code": "LA",
+    "alpha-3code": "LAO",
+    "numeric-code": "418",
 	"currency":[
 		{"name": "Kip","code": "LAK"}
 	]
   },
   {
     "name": "Latvia",
-    "alpha2code": "LV",
-    "alpha3code": "LVA",
-    "numericcode": "428",
+    "alpha-2code": "LV",
+    "alpha-3code": "LVA",
+    "numeric-code": "428",
 	"isEU": true,
 	"currency":[
 		{"name": "Euro","code": "EUR"}
@@ -1151,18 +1151,18 @@
   },
   {
     "name": "Lebanon",
-    "alpha2code": "LB",
-    "alpha3code": "LBN",
-    "numericcode": "422",
+    "alpha-2code": "LB",
+    "alpha-3code": "LBN",
+    "numeric-code": "422",
 	"currency":[
 		{"name": "Lebanese Pound","code": "LBP"}
 	]
   },
   {
     "name": "Lesotho",
-    "alpha2code": "LS",
-    "alpha3code": "LSO",
-    "numericcode": "426",
+    "alpha-2code": "LS",
+    "alpha-3code": "LSO",
+    "numeric-code": "426",
 	"currency":[
 		{"name": "Loti","code": "LSL"},
 		{"name": "Rand","code": "ZAR"}
@@ -1170,36 +1170,36 @@
   },
   {
     "name": "Liberia",
-    "alpha2code": "LR",
-    "alpha3code": "LBR",
-    "numericcode": "430",
+    "alpha-2code": "LR",
+    "alpha-3code": "LBR",
+    "numeric-code": "430",
 	"currency":[
 		{"name": "Liberian Dollar","code": "LRD"}
 	]
   },
   {
     "name": "Libya",
-    "alpha2code": "LY",
-    "alpha3code": "LBY",
-    "numericcode": "434",
+    "alpha-2code": "LY",
+    "alpha-3code": "LBY",
+    "numeric-code": "434",
 	"currency":[
 		{"name": "Libyan Dinar","code": "LYD"}
 	]
   },
   {
     "name": "Liechtenstein",
-    "alpha2code": "LI",
-    "alpha3code": "LIE",
-    "numericcode": "438",
+    "alpha-2code": "LI",
+    "alpha-3code": "LIE",
+    "numeric-code": "438",
 	"currency":[
 		{"name": "Swiss Franc","code": "CHF"}
 	]
   },
   {
     "name": "Lithuania",
-    "alpha2code": "LT",
-    "alpha3code": "LTU",
-    "numericcode": "440",
+    "alpha-2code": "LT",
+    "alpha-3code": "LTU",
+    "numeric-code": "440",
 	"isEU": true,
 	"currency":[
 		{"name": "Euro","code": "EUR"}
@@ -1207,9 +1207,9 @@
   },
   {
     "name": "Luxembourg",
-    "alpha2code": "LU",
-    "alpha3code": "LUX",
-    "numericcode": "442",
+    "alpha-2code": "LU",
+    "alpha-3code": "LUX",
+    "numeric-code": "442",
 	"isEU": true,
 	"currency":[
 		{"name": "Euro","code": "EUR"}
@@ -1217,72 +1217,72 @@
   },
   {
     "name": "Macao",
-    "alpha2code": "MO",
-    "alpha3code": "MAC",
-    "numericcode": "446",
+    "alpha-2code": "MO",
+    "alpha-3code": "MAC",
+    "numeric-code": "446",
 	"currency":[
 		{"name": "Pataca","code": "MOP"}
 	]
   },
   {
     "name": "Macedonia (the former Yugoslav Republic of)",
-    "alpha2code": "MK",
-    "alpha3code": "MKD",
-    "numericcode": "807",
+    "alpha-2code": "MK",
+    "alpha-3code": "MKD",
+    "numeric-code": "807",
 	"currency":[
 		{"name": "Denar","code": "MKD"}
 	]
   },
   {
     "name": "Madagascar",
-    "alpha2code": "MG",
-    "alpha3code": "MDG",
-    "numericcode": "450",
+    "alpha-2code": "MG",
+    "alpha-3code": "MDG",
+    "numeric-code": "450",
 	"currency":[
 		{"name": "Malagasy Ariary","code": "MGA"}
 	]
   },
   {
     "name": "Malawi",
-    "alpha2code": "MW",
-    "alpha3code": "MWI",
-    "numericcode": "454",
+    "alpha-2code": "MW",
+    "alpha-3code": "MWI",
+    "numeric-code": "454",
 	"currency":[
 		{"name": "Kwacha","code": "MWK"}
 	]
   },
   {
     "name": "Malaysia",
-    "alpha2code": "MY",
-    "alpha3code": "MYS",
-    "numericcode": "458",
+    "alpha-2code": "MY",
+    "alpha-3code": "MYS",
+    "numeric-code": "458",
 	"currency":[
 		{"name": "Malaysian Ringgit","code": "MYR"}
 	]
   },
   {
     "name": "Maldives",
-    "alpha2code": "MV",
-    "alpha3code": "MDV",
-    "numericcode": "462",
+    "alpha-2code": "MV",
+    "alpha-3code": "MDV",
+    "numeric-code": "462",
 	"currency":[
 		{"name": "Rufiyaa","code": "MVR"}
 	]
   },
   {
     "name": "Mali",
-    "alpha2code": "ML",
-    "alpha3code": "MLI",
-    "numericcode": "466",
+    "alpha-2code": "ML",
+    "alpha-3code": "MLI",
+    "numeric-code": "466",
 	"currency":[
 		{"name": "CFA Franc BCEAO","code": "XOF"}
 	]
   },
   {
     "name": "Malta",
-    "alpha2code": "MT",
-    "alpha3code": "MLT",
-    "numericcode": "470",
+    "alpha-2code": "MT",
+    "alpha-3code": "MLT",
+    "numeric-code": "470",
 	"isEU": true,
 	"currency":[
 		{"name": "Euro","code": "EUR"}
@@ -1290,18 +1290,18 @@
   },
   {
     "name": "Marshall Islands",
-    "alpha2code": "MH",
-    "alpha3code": "MHL",
-    "numericcode": "584",
+    "alpha-2code": "MH",
+    "alpha-3code": "MHL",
+    "numeric-code": "584",
 	"currency":[
 		{"name": "US Dollar","code": "USD"}
 	]
   },
   {
     "name": "Martinique",
-    "alpha2code": "MQ",
-    "alpha3code": "MTQ",
-    "numericcode": "474",
+    "alpha-2code": "MQ",
+    "alpha-3code": "MTQ",
+    "numeric-code": "474",
 	"isNA": true,
 	"currency":[
 		{"name": "Euro","code": "EUR"}
@@ -1309,36 +1309,36 @@
   },
   {
     "name": "Mauritania",
-    "alpha2code": "MR",
-    "alpha3code": "MRT",
-    "numericcode": "478",
+    "alpha-2code": "MR",
+    "alpha-3code": "MRT",
+    "numeric-code": "478",
 	"currency":[
 		{"name": "Ouguiya","code": "MRO"}
 	]
   },
   {
     "name": "Mauritius",
-    "alpha2code": "MU",
-    "alpha3code": "MUS",
-    "numericcode": "480",
+    "alpha-2code": "MU",
+    "alpha-3code": "MUS",
+    "numeric-code": "480",
 	"currency":[
 		{"name": "Mauritius Rupee","code": "MUR"}
 	]
   },
   {
     "name": "Mayotte",
-    "alpha2code": "YT",
-    "alpha3code": "MYT",
-    "numericcode": "175",
+    "alpha-2code": "YT",
+    "alpha-3code": "MYT",
+    "numeric-code": "175",
 	"currency":[
 		{"name": "Euro","code": "EUR"}
 	]
   },
   {
     "name": "Mexico",
-    "alpha2code": "MX",
-    "alpha3code": "MEX",
-    "numericcode": "484",
+    "alpha-2code": "MX",
+    "alpha-3code": "MEX",
+    "numeric-code": "484",
 	"isNA": true,
 	"currency":[
 		{"name": "Mexican Peso","code": "MXN"},
@@ -1347,54 +1347,54 @@
   },
   {
     "name": "Micronesia (Federated States of)",
-    "alpha2code": "FM",
-    "alpha3code": "FSM",
-    "numericcode": "583",
+    "alpha-2code": "FM",
+    "alpha-3code": "FSM",
+    "numeric-code": "583",
 	"currency":[
 		{"name": "US Dollar","code": "USD"}
 	]
   },
   {
     "name": "Moldova (Republic of)",
-    "alpha2code": "MD",
-    "alpha3code": "MDA",
-    "numericcode": "498",
+    "alpha-2code": "MD",
+    "alpha-3code": "MDA",
+    "numeric-code": "498",
 	"currency":[
 		{"name": "Moldovan Leu","code": "MDL"}
 	]
   },
   {
     "name": "Monaco",
-    "alpha2code": "MC",
-    "alpha3code": "MCO",
-    "numericcode": "492",
+    "alpha-2code": "MC",
+    "alpha-3code": "MCO",
+    "numeric-code": "492",
 	"currency":[
 		{"name": "Euro","code": "EUR"}
 	]
   },
   {
     "name": "Mongolia",
-    "alpha2code": "MN",
-    "alpha3code": "MNG",
-    "numericcode": "496",
+    "alpha-2code": "MN",
+    "alpha-3code": "MNG",
+    "numeric-code": "496",
 	"currency":[
 		{"name": "Tugrik","code": "MNT"}
 	]
   },
   {
     "name": "Montenegro",
-    "alpha2code": "ME",
-    "alpha3code": "MNE",
-    "numericcode": "499",
+    "alpha-2code": "ME",
+    "alpha-3code": "MNE",
+    "numeric-code": "499",
 	"currency":[
 		{"name": "Euro","code": "EUR"}
 	]
   },
   {
     "name": "Montserrat",
-    "alpha2code": "MS",
-    "alpha3code": "MSR",
-    "numericcode": "500",
+    "alpha-2code": "MS",
+    "alpha-3code": "MSR",
+    "numeric-code": "500",
 	"isNA": true,
 	"currency":[
 		{"name": "East Caribbean Dollar","code": "XCD"}
@@ -1402,36 +1402,36 @@
   },
   {
     "name": "Morocco",
-    "alpha2code": "MA",
-    "alpha3code": "MAR",
-    "numericcode": "504",
+    "alpha-2code": "MA",
+    "alpha-3code": "MAR",
+    "numeric-code": "504",
 	"currency":[
 		{"name": "Moroccan Dirham","code": "MAD"}
 	]
   },
   {
     "name": "Mozambique",
-    "alpha2code": "MZ",
-    "alpha3code": "MOZ",
-    "numericcode": "508",
+    "alpha-2code": "MZ",
+    "alpha-3code": "MOZ",
+    "numeric-code": "508",
 	"currency":[
 		{"name": "Mozambique Metical","code": "MZN"}
 	]
   },
   {
     "name": "Myanmar",
-    "alpha2code": "MM",
-    "alpha3code": "MMR",
-    "numericcode": "104",
+    "alpha-2code": "MM",
+    "alpha-3code": "MMR",
+    "numeric-code": "104",
 	"currency":[
 		{"name": "Kyat","code": "MMK"}
 	]
   },
   {
     "name": "Namibia",
-    "alpha2code": "NA",
-    "alpha3code": "NAM",
-    "numericcode": "516",
+    "alpha-2code": "NA",
+    "alpha-3code": "NAM",
+    "numeric-code": "516",
 	"currency":[
 		{"name": "Namibia Dollar","code": "NAD"},
 		{"name": "Rand","code": "ZAR"}
@@ -1439,27 +1439,27 @@
   },
   {
     "name": "Nauru",
-    "alpha2code": "NR",
-    "alpha3code": "NRU",
-    "numericcode": "520",
+    "alpha-2code": "NR",
+    "alpha-3code": "NRU",
+    "numeric-code": "520",
 	"currency":[
 		{"name": "Australian Dollar","code": "AUD"}
 	]
   },
   {
     "name": "Nepal",
-    "alpha2code": "NP",
-    "alpha3code": "NPL",
-    "numericcode": "524",
+    "alpha-2code": "NP",
+    "alpha-3code": "NPL",
+    "numeric-code": "524",
 	"currency":[
 		{"name": "Nepalese Rupee","code": "NPR"}
 	]
   },
   {
     "name": "Netherlands",
-    "alpha2code": "NL",
-    "alpha3code": "NLD",
-    "numericcode": "528",
+    "alpha-2code": "NL",
+    "alpha-3code": "NLD",
+    "numeric-code": "528",
 	"isEU": true,
 	"currency":[
 		{"name": "Euro","code": "EUR"}
@@ -1467,27 +1467,27 @@
   },
   {
     "name": "New Caledonia",
-    "alpha2code": "NC",
-    "alpha3code": "NCL",
-    "numericcode": "540",
+    "alpha-2code": "NC",
+    "alpha-3code": "NCL",
+    "numeric-code": "540",
 	"currency":[
 		{"name": "CFP Franc","code": "XPF"}
 	]
   },
   {
     "name": "New Zealand",
-    "alpha2code": "NZ",
-    "alpha3code": "NZL",
-    "numericcode": "554",
+    "alpha-2code": "NZ",
+    "alpha-3code": "NZL",
+    "numeric-code": "554",
 	"currency":[
 		{"name": "New Zealand Dollar","code": "NZD"}
 	]
   },
   {
     "name": "Nicaragua",
-    "alpha2code": "NI",
-    "alpha3code": "NIC",
-    "numericcode": "558",
+    "alpha-2code": "NI",
+    "alpha-3code": "NIC",
+    "numeric-code": "558",
 	"isNA": true,
 	"currency":[
 		{"name": "Cordoba Oro","code": "NIO"}
@@ -1495,96 +1495,96 @@
   },
   {
     "name": "Niger",
-    "alpha2code": "NE",
-    "alpha3code": "NER",
-    "numericcode": "562",
+    "alpha-2code": "NE",
+    "alpha-3code": "NER",
+    "numeric-code": "562",
 	"currency":[
 		{"name": "CFA Franc BCEAO","code": "XOF"}
 	]
   },
   {
     "name": "Nigeria",
-    "alpha2code": "NG",
-    "alpha3code": "NGA",
-    "numericcode": "566",
+    "alpha-2code": "NG",
+    "alpha-3code": "NGA",
+    "numeric-code": "566",
 	"currency":[
 		{"name": "Naira","code": "NGN"}
 	]
   },
   {
     "name": "Niue",
-    "alpha2code": "NU",
-    "alpha3code": "NIU",
-    "numericcode": "570",
+    "alpha-2code": "NU",
+    "alpha-3code": "NIU",
+    "numeric-code": "570",
 	"currency":[
 		{"name": "New Zealand Dollar","code": "NZD"}
 	]
   },
   {
     "name": "Norfolk Island",
-    "alpha2code": "NF",
-    "alpha3code": "NFK",
-    "numericcode": "574",
+    "alpha-2code": "NF",
+    "alpha-3code": "NFK",
+    "numeric-code": "574",
 	"currency":[
 		{"name": "Australian Dollar","code": "AUD"}
 	]
   },
   {
     "name": "Northern Mariana Islands",
-    "alpha2code": "MP",
-    "alpha3code": "MNP",
-    "numericcode": "580",
+    "alpha-2code": "MP",
+    "alpha-3code": "MNP",
+    "numeric-code": "580",
 	"currency":[
 		{"name": "US Dollar","code": "USD"}
 	]
   },
   {
     "name": "Norway",
-    "alpha2code": "NO",
-    "alpha3code": "NOR",
-    "numericcode": "578",
+    "alpha-2code": "NO",
+    "alpha-3code": "NOR",
+    "numeric-code": "578",
 	"currency":[
 		{"name": "Norwegian Krone","code": "NOK"}
 	]
   },
   {
     "name": "Oman",
-    "alpha2code": "OM",
-    "alpha3code": "OMN",
-    "numericcode": "512",
+    "alpha-2code": "OM",
+    "alpha-3code": "OMN",
+    "numeric-code": "512",
 	"currency":[
 		{"name": "Rial Omani","code": "OMR"}
 	]
   },
   {
     "name": "Pakistan",
-    "alpha2code": "PK",
-    "alpha3code": "PAK",
-    "numericcode": "586",
+    "alpha-2code": "PK",
+    "alpha-3code": "PAK",
+    "numeric-code": "586",
 	"currency":[
 		{"name": "Pakistan Rupee","code": "PKR"}
 	]
   },
   {
     "name": "Palau",
-    "alpha2code": "PW",
-    "alpha3code": "PLW",
-    "numericcode": "585",
+    "alpha-2code": "PW",
+    "alpha-3code": "PLW",
+    "numeric-code": "585",
 	"currency":[
 		{"name": "US Dollar","code": "USD"}
 	]
   },
   {
     "name": "Palestine, State of",
-    "alpha2code": "PS",
-    "alpha3code": "PSE",
-    "numericcode": "275"
+    "alpha-2code": "PS",
+    "alpha-3code": "PSE",
+    "numeric-code": "275"
   },
   {
     "name": "Panama",
-    "alpha2code": "PA",
-    "alpha3code": "PAN",
-    "numericcode": "591",
+    "alpha-2code": "PA",
+    "alpha-3code": "PAN",
+    "numeric-code": "591",
 	"currency":[
 		{"name": "Balboa","code": "PAB"},
 		{"name": "US Dollar","code": "USD"}
@@ -1592,54 +1592,54 @@
   },
   {
     "name": "Papua New Guinea",
-    "alpha2code": "PG",
-    "alpha3code": "PNG",
-    "numericcode": "598",
+    "alpha-2code": "PG",
+    "alpha-3code": "PNG",
+    "numeric-code": "598",
 	"currency":[
 		{"name": "Kina","code": "PGK"}
 	]
   },
   {
     "name": "Paraguay",
-    "alpha2code": "PY",
-    "alpha3code": "PRY",
-    "numericcode": "600",
+    "alpha-2code": "PY",
+    "alpha-3code": "PRY",
+    "numeric-code": "600",
 	"currency":[
 		{"name": "Guarani","code": "PYG"}
 	]
   },
   {
     "name": "Peru",
-    "alpha2code": "PE",
-    "alpha3code": "PER",
-    "numericcode": "604",
+    "alpha-2code": "PE",
+    "alpha-3code": "PER",
+    "numeric-code": "604",
 	"currency":[
 		{"name": "Nuevo Sol","code": "PEN"}
 	]
   },
   {
     "name": "Philippines",
-    "alpha2code": "PH",
-    "alpha3code": "PHL",
-    "numericcode": "608",
+    "alpha-2code": "PH",
+    "alpha-3code": "PHL",
+    "numeric-code": "608",
 	"currency":[
 		{"name": "Philippine Peso","code": "PHP"}
 	]
   },
   {
     "name": "Pitcairn",
-    "alpha2code": "PN",
-    "alpha3code": "PCN",
-    "numericcode": "612",
+    "alpha-2code": "PN",
+    "alpha-3code": "PCN",
+    "numeric-code": "612",
 	"currency":[
 		{"name": "New Zealand Dollar","code": "NZD"}
 	]
   },
   {
     "name": "Poland",
-    "alpha2code": "PL",
-    "alpha3code": "POL",
-    "numericcode": "616",
+    "alpha-2code": "PL",
+    "alpha-3code": "POL",
+    "numeric-code": "616",
 	"isEU": true,
 	"currency":[
 		{"name": "Zloty","code": "PLN"}
@@ -1647,9 +1647,9 @@
   },
   {
     "name": "Portugal",
-    "alpha2code": "PT",
-    "alpha3code": "PRT",
-    "numericcode": "620",
+    "alpha-2code": "PT",
+    "alpha-3code": "PRT",
+    "numeric-code": "620",
 	"isEU": true,
 	"currency":[
 		{"name": "Euro","code": "EUR"}
@@ -1657,36 +1657,36 @@
   },
   {
     "name": "Puerto Rico",
-    "alpha2code": "PR",
-    "alpha3code": "PRI",
-    "numericcode": "630",
+    "alpha-2code": "PR",
+    "alpha-3code": "PRI",
+    "numeric-code": "630",
 	"currency":[
 		{"name": "US Dollar","code": "USD"}
 	]
   },
   {
     "name": "Qatar",
-    "alpha2code": "QA",
-    "alpha3code": "QAT",
-    "numericcode": "634",
+    "alpha-2code": "QA",
+    "alpha-3code": "QAT",
+    "numeric-code": "634",
 	"currency":[
 		{"name": "Qatari Rial","code": "QAR"}
 	]
   },
   {
     "name": "Réunion",
-    "alpha2code": "RE",
-    "alpha3code": "REU",
-    "numericcode": "638",
+    "alpha-2code": "RE",
+    "alpha-3code": "REU",
+    "numeric-code": "638",
 	"currency":[
 		{"name": "Euro","code": "EUR"}
 	]
   },
   {
     "name": "Romania",
-    "alpha2code": "RO",
-    "alpha3code": "ROU",
-    "numericcode": "642",
+    "alpha-2code": "RO",
+    "alpha-3code": "ROU",
+    "numeric-code": "642",
 	"isEU": true,
 	"currency":[
 		{"name": "New Romanian Leu","code": "RON"}
@@ -1694,45 +1694,45 @@
   },
   {
     "name": "Russian Federation",
-    "alpha2code": "RU",
-    "alpha3code": "RUS",
-    "numericcode": "643",
+    "alpha-2code": "RU",
+    "alpha-3code": "RUS",
+    "numeric-code": "643",
 	"currency":[
 		{"name": "Russian Ruble","code": "RUB"}
 	]
   },
   {
     "name": "Rwanda",
-    "alpha2code": "RW",
-    "alpha3code": "RWA",
-    "numericcode": "646",
+    "alpha-2code": "RW",
+    "alpha-3code": "RWA",
+    "numeric-code": "646",
 	"currency":[
 		{"name": "Rwanda Franc","code": "RWF"}
 	]
   },
   {
     "name": "Saint Barthélemy",
-    "alpha2code": "BL",
-    "alpha3code": "BLM",
-    "numericcode": "652",
+    "alpha-2code": "BL",
+    "alpha-3code": "BLM",
+    "numeric-code": "652",
 	"currency":[
 		{"name": "Euro","code": "EUR"}
 	]
   },
   {
     "name": "Saint Helena, Ascension and Tristan da Cunha",
-    "alpha2code": "SH",
-    "alpha3code": "SHN",
-    "numericcode": "654",
+    "alpha-2code": "SH",
+    "alpha-3code": "SHN",
+    "numeric-code": "654",
 	"currency":[
 		{"name": "Saint Helena Pound","code": "SHP"}
 	]
   },
   {
     "name": "Saint Kitts and Nevis",
-    "alpha2code": "KN",
-    "alpha3code": "KNA",
-    "numericcode": "659",
+    "alpha-2code": "KN",
+    "alpha-3code": "KNA",
+    "numeric-code": "659",
 	"isNA": true,
 	"currency":[
 		{"name": "East Caribbean Dollar","code": "XCD"}
@@ -1740,9 +1740,9 @@
   },
   {
     "name": "Saint Lucia",
-    "alpha2code": "LC",
-    "alpha3code": "LCA",
-    "numericcode": "662",
+    "alpha-2code": "LC",
+    "alpha-3code": "LCA",
+    "numeric-code": "662",
 	"isNA": true,
 	"currency":[
 		{"name": "East Caribbean Dollar","code": "XCD"}
@@ -1750,18 +1750,18 @@
   },
   {
     "name": "Saint Martin (French part)",
-    "alpha2code": "MF",
-    "alpha3code": "MAF",
-    "numericcode": "663",
+    "alpha-2code": "MF",
+    "alpha-3code": "MAF",
+    "numeric-code": "663",
 	"currency":[
 		{"name": "Euro","code": "EUR"}
 	]
   },
   {
     "name": "Saint Pierre and Miquelon",
-    "alpha2code": "PM",
-    "alpha3code": "SPM",
-    "numericcode": "666",
+    "alpha-2code": "PM",
+    "alpha-3code": "SPM",
+    "numeric-code": "666",
 	"isNA": true,
 	"currency":[
 		{"name": "Euro","code": "EUR"}
@@ -1769,99 +1769,99 @@
   },
   {
     "name": "Saint Vincent and the Grenadines",
-    "alpha2code": "VC",
-    "alpha3code": "VCT",
-    "numericcode": "670",
+    "alpha-2code": "VC",
+    "alpha-3code": "VCT",
+    "numeric-code": "670",
 	"currency":[
 		{"name": "East Caribbean Dollar","code": "XCD"}
 	]
   },
   {
     "name": "Samoa",
-    "alpha2code": "WS",
-    "alpha3code": "WSM",
-    "numericcode": "882",
+    "alpha-2code": "WS",
+    "alpha-3code": "WSM",
+    "numeric-code": "882",
 	"currency":[
 		{"name": "Tala","code": "WST"}
 	]
   },
   {
     "name": "San Marino",
-    "alpha2code": "SM",
-    "alpha3code": "SMR",
-    "numericcode": "674",
+    "alpha-2code": "SM",
+    "alpha-3code": "SMR",
+    "numeric-code": "674",
 	"currency":[
 		{"name": "Euro","code": "EUR"}
 	]
   },
   {
     "name": "Sao Tome and Principe",
-    "alpha2code": "ST",
-    "alpha3code": "STP",
-    "numericcode": "678",
+    "alpha-2code": "ST",
+    "alpha-3code": "STP",
+    "numeric-code": "678",
 	"currency":[
 		{"name": "Dobra","code": "STD"}
 	]
   },
   {
     "name": "Saudi Arabia",
-    "alpha2code": "SA",
-    "alpha3code": "SAU",
-    "numericcode": "682",
+    "alpha-2code": "SA",
+    "alpha-3code": "SAU",
+    "numeric-code": "682",
 	"currency":[
 		{"name": "Saudi Riyal","code": "SAR"}
 	]
   },
   {
     "name": "Senegal",
-    "alpha2code": "SN",
-    "alpha3code": "SEN",
-    "numericcode": "686",
+    "alpha-2code": "SN",
+    "alpha-3code": "SEN",
+    "numeric-code": "686",
 	"currency":[
 		{"name": "CFA Franc BCEAO","code": "XOF"}
 	]
   },
   {
     "name": "Serbia",
-    "alpha2code": "RS",
-    "alpha3code": "SRB",
-    "numericcode": "688",
+    "alpha-2code": "RS",
+    "alpha-3code": "SRB",
+    "numeric-code": "688",
 	"currency":[
 		{"name": "Serbian Dinar","code": "RSD"}
 	]
   },
   {
     "name": "Seychelles",
-    "alpha2code": "SC",
-    "alpha3code": "SYC",
-    "numericcode": "690",
+    "alpha-2code": "SC",
+    "alpha-3code": "SYC",
+    "numeric-code": "690",
 	"currency":[
 		{"name": "Seychelles Rupee","code": "SCR"}
 	]
   },
   {
     "name": "Sierra Leone",
-    "alpha2code": "SL",
-    "alpha3code": "SLE",
-    "numericcode": "694",
+    "alpha-2code": "SL",
+    "alpha-3code": "SLE",
+    "numeric-code": "694",
 	"currency":[
 		{"name": "Leone","code": "SLL"}
 	]
   },
   {
     "name": "Singapore",
-    "alpha2code": "SG",
-    "alpha3code": "SGP",
-    "numericcode": "702",
+    "alpha-2code": "SG",
+    "alpha-3code": "SGP",
+    "numeric-code": "702",
 	"currency":[
 		{"name": "Singapore Dollar","code": "SGD"}
 	]
   },
   {
     "name": "Sint Maarten (Dutch part)",
-    "alpha2code": "SX",
-    "alpha3code": "SXM",
-    "numericcode": "534",
+    "alpha-2code": "SX",
+    "alpha-3code": "SXM",
+    "numeric-code": "534",
 	"isNA": true,
 	"currency":[
 		{"name": "Netherlands Antillean Guilder","code": "ANG"}
@@ -1869,9 +1869,9 @@
   },
   {
     "name": "Slovakia",
-    "alpha2code": "SK",
-    "alpha3code": "SVK",
-    "numericcode": "703",
+    "alpha-2code": "SK",
+    "alpha-3code": "SVK",
+    "numeric-code": "703",
 	"isEU": true,
 	"currency":[
 		{"name": "Euro","code": "EUR"}
@@ -1879,9 +1879,9 @@
   },
   {
     "name": "Slovenia",
-    "alpha2code": "SI",
-    "alpha3code": "SVN",
-    "numericcode": "705",
+    "alpha-2code": "SI",
+    "alpha-3code": "SVN",
+    "numeric-code": "705",
 	"isEU": true,
 	"currency":[
 		{"name": "Euro","code": "EUR"}
@@ -1889,51 +1889,51 @@
   },
   {
     "name": "Solomon Islands",
-    "alpha2code": "SB",
-    "alpha3code": "SLB",
-    "numericcode": "090",
+    "alpha-2code": "SB",
+    "alpha-3code": "SLB",
+    "numeric-code": "090",
 	"currency":[
 		{"name": "Solomon Islands Dollar","code": "SBD"}
 	]
   },
   {
     "name": "Somalia",
-    "alpha2code": "SO",
-    "alpha3code": "SOM",
-    "numericcode": "706",
+    "alpha-2code": "SO",
+    "alpha-3code": "SOM",
+    "numeric-code": "706",
 	"currency":[
 		{"name": "Somali Shilling","code": "SOS"}
 	]
   },
   {
     "name": "South Africa",
-    "alpha2code": "ZA",
-    "alpha3code": "ZAF",
-    "numericcode": "710",
+    "alpha-2code": "ZA",
+    "alpha-3code": "ZAF",
+    "numeric-code": "710",
 	"currency":[
 		{"name": "Rand","code": "ZAR"}
 	]
   },
   {
     "name": "South Georgia and the South Sandwich Islands",
-    "alpha2code": "GS",
-    "alpha3code": "SGS",
-    "numericcode": "239"
+    "alpha-2code": "GS",
+    "alpha-3code": "SGS",
+    "numeric-code": "239",
   },
   {
     "name": "South Sudan",
-    "alpha2code": "SS",
-    "alpha3code": "SSD",
-    "numericcode": "728",
+    "alpha-2code": "SS",
+    "alpha-3code": "SSD",
+    "numeric-code": "728",
 	"currency":[
 		{"name": "South Sudanese Pound","code": "SSP"}
 	]
   },
   {
     "name": "Spain",
-    "alpha2code": "ES",
-    "alpha3code": "ESP",
-    "numericcode": "724",
+    "alpha-2code": "ES",
+    "alpha-3code": "ESP",
+    "numeric-code": "724",
 	"isEU": true,
 	"currency":[
 		{"name": "Euro","code": "EUR"}
@@ -1941,54 +1941,54 @@
   },
   {
     "name": "Sri Lanka",
-    "alpha2code": "LK",
-    "alpha3code": "LKA",
-    "numericcode": "144",
+    "alpha-2code": "LK",
+    "alpha-3code": "LKA",
+    "numeric-code": "144",
 	"currency":[
 		{"name": "Sri Lanka Rupee","code": "LKR"}
 	]
   },
   {
     "name": "Sudan",
-    "alpha2code": "SD",
-    "alpha3code": "SDN",
-    "numericcode": "729",
+    "alpha-2code": "SD",
+    "alpha-3code": "SDN",
+    "numeric-code": "729",
 	"currency":[
 		{"name": "Sudanese Pound","code": "SDG"}
 	]
   },
   {
     "name": "Suriname",
-    "alpha2code": "SR",
-    "alpha3code": "SUR",
-    "numericcode": "740",
+    "alpha-2code": "SR",
+    "alpha-3code": "SUR",
+    "numeric-code": "740",
 	"currency":[
 		{"name": "Surinam Dollar","code": "SRD"}
 	]
   },
   {
     "name": "Svalbard and Jan Mayen",
-    "alpha2code": "SJ",
-    "alpha3code": "SJM",
-    "numericcode": "744",
+    "alpha-2code": "SJ",
+    "alpha-3code": "SJM",
+    "numeric-code": "744",
 	"currency":[
 		{"name": "Norwegian Krone","code": "NOK"}
 	]
   },
   {
     "name": "Swaziland",
-    "alpha2code": "SZ",
-    "alpha3code": "SWZ",
-    "numericcode": "748",
+    "alpha-2code": "SZ",
+    "alpha-3code": "SWZ",
+    "numeric-code": "748",
 	"currency":[
 		{"name": "Lilangeni","code": "SZL"}
 	]
   },
   {
     "name": "Sweden",
-    "alpha2code": "SE",
-    "alpha3code": "SWE",
-    "numericcode": "752",
+    "alpha-2code": "SE",
+    "alpha-3code": "SWE",
+    "numeric-code": "752",
 	"isEU": true,
 	"currency":[
 		{"name": "Swedish Krona","code": "SEK"}
@@ -1996,9 +1996,9 @@
   },
   {
     "name": "Switzerland",
-    "alpha2code": "CH",
-    "alpha3code": "CHE",
-    "numericcode": "756",
+    "alpha-2code": "CH",
+    "alpha-3code": "CHE",
+    "numeric-code": "756",
 	"currency":[
 		{"name": "WIR Euro","code": "CHE"},
 		{"name": "Swiss Franc","code": "CHF"},
@@ -2007,90 +2007,90 @@
   },
   {
     "name": "Syrian Arab Republic",
-    "alpha2code": "SY",
-    "alpha3code": "SYR",
-    "numericcode": "760",
+    "alpha-2code": "SY",
+    "alpha-3code": "SYR",
+    "numeric-code": "760",
 	"currency":[
 		{"name": "Syrian Pound","code": "SYP"}
 	]
   },
   {
     "name": "Taiwan, Province of China",
-    "alpha2code": "TW",
-    "alpha3code": "TWN",
-    "numericcode": "158",
+    "alpha-2code": "TW",
+    "alpha-3code": "TWN",
+    "numeric-code": "158",
 	"currency":[
 		{"name": "New Taiwan Dollar","code": "TWD"}
 	]
   },
   {
     "name": "Tajikistan",
-    "alpha2code": "TJ",
-    "alpha3code": "TJK",
-    "numericcode": "762",
+    "alpha-2code": "TJ",
+    "alpha-3code": "TJK",
+    "numeric-code": "762",
 	"currency":[
 		{"name": "Somoni","code": "TJS"}
 	]
   },
   {
     "name": "Tanzania, United Republic of",
-    "alpha2code": "TZ",
-    "alpha3code": "TZA",
-    "numericcode": "834",
+    "alpha-2code": "TZ",
+    "alpha-3code": "TZA",
+    "numeric-code": "834",
 	"currency":[
 		{"name": "Tanzanian Shilling","code": "TZS"}
 	]
   },
   {
     "name": "Thailand",
-    "alpha2code": "TH",
-    "alpha3code": "THA",
-    "numericcode": "764",
+    "alpha-2code": "TH",
+    "alpha-3code": "THA",
+    "numeric-code": "764",
 	"currency":[
 		{"name": "Baht","code": "THB"}
 	]
   },
   {
     "name": "Timor-Leste",
-    "alpha2code": "TL",
-    "alpha3code": "TLS",
-    "numericcode": "626",
+    "alpha-2code": "TL",
+    "alpha-3code": "TLS",
+    "numeric-code": "626",
 	"currency":[
 		{"name": "US Dollar","code": "USD"}
 	]
   },
   {
     "name": "Togo",
-    "alpha2code": "TG",
-    "alpha3code": "TGO",
-    "numericcode": "768",
+    "alpha-2code": "TG",
+    "alpha-3code": "TGO",
+    "numeric-code": "768",
 	"currency":[
 		{"name": "CFA Franc BCEAO","code": "XOF"}
 	]
   },
   {
     "name": "Tokelau",
-    "alpha2code": "TK",
-    "alpha3code": "TKL",
-    "numericcode": "772",
+    "alpha-2code": "TK",
+    "alpha-3code": "TKL",
+    "numeric-code": "772",
 	"currency":[
 		{"name": "New Zealand Dollar","code": "NZD"}
 	]
   },
   {
     "name": "Tonga",
-    "alpha2code": "TO",
-    "alpha3code": "TON",
-    "numericcode": "776",
+    "alpha-2code": "TO",
+    "alpha-3code": "TON",
+    "numeric-code": "776",
 	"currency":[
 		{"name": "Pa’anga","code": "TOP"}
 	]
   },
   {
     "name": "Trinidad and Tobago",
-    "alpha2code": "TT",
-    "alpha3code": "TTO",
-    "numericcode": "780",
+    "alpha-2code": "TT",
+    "alpha-3code": "TTO",
+    "numeric-code": "780",
 	"isNA": true,
 	"currency":[
 		{"name": "Trinidad and Tobago Dollar","code": "TTD"}
@@ -2098,36 +2098,36 @@
   },
   {
     "name": "Tunisia",
-    "alpha2code": "TN",
-    "alpha3code": "TUN",
-    "numericcode": "788",
+    "alpha-2code": "TN",
+    "alpha-3code": "TUN",
+    "numeric-code": "788",
 	"currency":[
 		{"name": "Tunisian Dinar","code": "TND"}
 	]
   },
   {
     "name": "Turkey",
-    "alpha2code": "TR",
-    "alpha3code": "TUR",
-    "numericcode": "792",
+    "alpha-2code": "TR",
+    "alpha-3code": "TUR",
+    "numeric-code": "792",
 	"currency":[
 		{"Turkish Lira": "Euro","code": "TRY"}
 	]
   },
   {
     "name": "Turkmenistan",
-    "alpha2code": "TM",
-    "alpha3code": "TKM",
-    "numericcode": "795",
+    "alpha-2code": "TM",
+    "alpha-3code": "TKM",
+    "numeric-code": "795",
 	"currency":[
 		{"name": "Turkmenistan New Manat","code": "TMT"}
 	]
   },
   {
     "name": "Turks and Caicos Islands",
-    "alpha2code": "TC",
-    "alpha3code": "TCA",
-    "numericcode": "796",
+    "alpha-2code": "TC",
+    "alpha-3code": "TCA",
+    "numeric-code": "796",
 	"isNA": true,
 	"currency":[
 		{"name": "US Dollar","code": "USD"}
@@ -2135,45 +2135,45 @@
   },
   {
     "name": "Tuvalu",
-    "alpha2code": "TV",
-    "alpha3code": "TUV",
-    "numericcode": "798",
+    "alpha-2code": "TV",
+    "alpha-3code": "TUV",
+    "numeric-code": "798",
 	"currency":[
 		{"name": "Australian Dollar","code": "AUD"}
 	]
   },
   {
     "name": "Uganda",
-    "alpha2code": "UG",
-    "alpha3code": "UGA",
-    "numericcode": "800",
+    "alpha-2code": "UG",
+    "alpha-3code": "UGA",
+    "numeric-code": "800",
 	"currency":[
 		{"name": "Uganda Shilling","code": "UGX"}
 	]
   },
   {
     "name": "Ukraine",
-    "alpha2code": "UA",
-    "alpha3code": "UKR",
-    "numericcode": "804",
+    "alpha-2code": "UA",
+    "alpha-3code": "UKR",
+    "numeric-code": "804",
 	"currency":[
 		{"name": "Hryvnia","code": "UAH"}
 	]
   },
   {
     "name": "United Arab Emirates",
-    "alpha2code": "AE",
-    "alpha3code": "ARE",
-    "numericcode": "784",
+    "alpha-2code": "AE",
+    "alpha-3code": "ARE",
+    "numeric-code": "784",
 	"currency":[
 		{"name": "UAE Dirham","code": "AED"}
 	]
   },
   {
     "name": "United Kingdom",
-    "alpha2code": "GB",
-    "alpha3code": "GBR",
-    "numericcode": "826",
+    "alpha-2code": "GB",
+    "alpha-3code": "GBR",
+    "numeric-code": "826",
 	"isEU": true,
 	"currency":[
 		{"name": "Pound Sterling","code": "GBP"}
@@ -2181,29 +2181,29 @@
   },
   {
     "name": "United States",
-    "alpha2code": "US",
-    "alpha3code": "USA",
-    "numericcode": "840",
+    "alpha-2code": "US",
+    "alpha-3code": "USA",
+    "numeric-code": "840",
 	"isNA": true,
 	"currency":[
 		{"name": "US Dollar","code": "USD"},
-		{"name": "US Dollar (Next day)","code": "USN"}
+		{"name": "US Dollar (Next day)","code": "USN"},
 	]
   },
   {
     "name": "United States Minor Outlying Islands",
-    "alpha2code": "UM",
-    "alpha3code": "UMI",
-    "numericcode": "581",
+    "alpha-2code": "UM",
+    "alpha-3code": "UMI",
+    "numeric-code": "581",
 	"currency":[
 		{"name": "US Dollar","code": "USD"}
 	]
   },
   {
     "name": "Uruguay",
-    "alpha2code": "UY",
-    "alpha3code": "URY",
-    "numericcode": "858",
+    "alpha-2code": "UY",
+    "alpha-3code": "URY",
+    "numeric-code": "858",
 	"currency":[
 		{"name": "Uruguay Peso en Unidades Indexadas (URUIURUI)","code": "UYI"},
 		{"name": "Peso Uruguayo","code": "UYU"}
@@ -2211,44 +2211,44 @@
   },
   {
     "name": "Uzbekistan",
-    "alpha2code": "UZ",
-    "alpha3code": "UZB",
-    "numericcode": "860",
+    "alpha-2code": "UZ",
+    "alpha-3code": "UZB",
+    "numeric-code": "860",
 	"currency":[
 		{"name": "Uzbekistan Sum","code": "UZS"}
 	]
   },
   {
     "name": "Vanuatu",
-    "alpha2code": "VU",
-    "alpha3code": "VUT",
-    "numericcode": "548",
+    "alpha-2code": "VU",
+    "alpha-3code": "VUT",
+    "numeric-code": "548",
 	"currency":[
 		{"name": "Vatu","code": "VUV"}
 	]
   },
   {
     "name": "Venezuela (Bolivarian Republic of)",
-    "alpha2code": "VE",
-    "numericcode": "862",
+    "alpha-2code": "VE",
+    "numeric-code": "862",
 	"currency":[
 		{"name": "Bolivar","code": "VEF"}
 	]
   },
   {
     "name": "Viet Nam",
-    "alpha2code": "VN",
-    "alpha3code": "VNM",
-    "numericcode": "704",
+    "alpha-2code": "VN",
+    "alpha-3code": "VNM",
+    "numeric-code": "704",
 	"currency":[
 		{"name": "Dong","code": "VND"}
 	]
   },
   {
     "name": "Virgin Islands (British)",
-    "alpha2code": "VG",
-    "alpha3code": "VGB",
-    "numericcode": "092",
+    "alpha-2code": "VG",
+    "alpha-3code": "VGB",
+    "numeric-code": "092",
 	"isNA": true,
 	"currency":[
 		{"name": "US Dollar","code": "USD"}
@@ -2256,9 +2256,9 @@
   },
   {
     "name": "Virgin Islands (U.S.)",
-    "alpha2code": "VI",
-    "alpha3code": "VIR",
-    "numericcode": "850",
+    "alpha-2code": "VI",
+    "alpha-3code": "VIR",
+    "numeric-code": "850",
 	"isNA": true,
 	"currency":[
 		{"name": "US Dollar","code": "USD"}
@@ -2266,45 +2266,45 @@
   },
   {
     "name": "Wallis and Futuna",
-    "alpha2code": "WF",
-    "alpha3code": "WLF",
-    "numericcode": "876",
+    "alpha-2code": "WF",
+    "alpha-3code": "WLF",
+    "numeric-code": "876",
 	"currency":[
 		{"name": "CFP Franc","code": "XPF"}
 	]
   },
   {
     "name": "Western Sahara",
-    "alpha2code": "EH",
-    "alpha3code": "ESH",
-    "numericcode": "732",
+    "alpha-2code": "EH",
+    "alpha-3code": "ESH",
+    "numeric-code": "732",
 	"currency":[
 		{"name": "Moroccan Dirham","code": "MAD"}
 	]
   },
   {
     "name": "Yemen",
-    "alpha2code": "YE",
-    "alpha3code": "YEM",
-    "numericcode": "887",
+    "alpha-2code": "YE",
+    "alpha-3code": "YEM",
+    "numeric-code": "887",
 	"currency":[
 		{"name": "Yemeni Rial","code": "YER"}
 	]
   },
   {
     "name": "Zambia",
-    "alpha2code": "ZM",
-    "alpha3code": "ZMB",
-    "numericcode": "894",
+    "alpha-2code": "ZM",
+    "alpha-3code": "ZMB",
+    "numeric-code": "894",
 	"currency":[
 		{"name": "Zambian Kwacha","code": "ZMW"}
 	]
   },
   {
     "name": "Zimbabwe",
-    "alpha2code": "ZW",
-    "alpha3code": "ZWE",
-    "numericcode": "716",
+    "alpha-2code": "ZW",
+    "alpha-3code": "ZWE",
+    "numeric-code": "716",
 	"currency":[
 		{"name": "Zimbabwe Dollar","code": "ZWL"}
 	]
